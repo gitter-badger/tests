@@ -45,56 +45,56 @@
         "parentTimestamp" : "42",
         "parentDifficulty" : "1000000",
         "currentTimestamp" : "43",
-        "currentBlockNumber" : "300000",
-        "currentDifficulty" : "1000486"
+        "currentBlockNumber" : "299999",
+        "currentDifficulty" : "1000488"
     },
     "ExpDiffPreBlock300000Decrease" : {
         "parentTimestamp" : "42",
         "parentDifficulty" : "1000000",
         "currentTimestamp" : "60",
-        "currentBlockNumber" : "300000",
-        "currentDifficulty" : "999510"
+        "currentBlockNumber" : "299999",
+        "currentDifficulty" : "999512"
     },
     "ExpDiffAtBlock300000Increase" : {
         "parentTimestamp" : "42",
         "parentDifficulty" : "1000000",
         "currentTimestamp" : "43",
         "currentBlockNumber" : "300000",
-        "currentDifficulty" : "1000486"
+        "currentDifficulty" : "1000490"
     },
     "ExpDiffAtBlock300000Decrease" : {
         "parentTimestamp" : "42",
         "parentDifficulty" : "1000000",
         "currentTimestamp" : "60",
         "currentBlockNumber" : "300000",
-        "currentDifficulty" : "999510"
+        "currentDifficulty" : "999514"
     },
     "ExpDiffPostBlock300000Increase" : {
         "parentTimestamp" : "42",
         "parentDifficulty" : "1000000",
         "currentTimestamp" : "43",
         "currentBlockNumber" : "300001",
-        "currentDifficulty" : "1000486"
+        "currentDifficulty" : "1000490"
     },
     "ExpDiffPostBlock300000Decrease" : {
         "parentTimestamp" : "42",
         "parentDifficulty" : "1000000",
         "currentTimestamp" : "60",
         "currentBlockNumber" : "300001",
-        "currentDifficulty" : "999510"
+        "currentDifficulty" : "999514"
     },
     "ExpDiffInAYearIncrease" : {
         "parentTimestamp" : "42",
         "parentDifficulty" : "1000000",
         "currentTimestamp" : "43",
         "currentBlockNumber" : "2302400",
-        "currentDifficulty" : "131072"
+        "currentDifficulty" : "3097640"
     },
     "ExpDiffInAYearDecrease" : {
         "parentTimestamp" : "42",
         "parentDifficulty" : "1000000",
         "currentTimestamp" : "60",
         "currentBlockNumber" : "2302400",
-        "currentDifficulty" : "131072"
+        "currentDifficulty" : "3096664"
     }
 }
