@@ -1,6 +1,8 @@
 tests
 =====
 
+[![Join the chat at https://gitter.im/winsvega/tests](https://badges.gitter.im/winsvega/tests.svg)](https://gitter.im/winsvega/tests?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Common tests for all clients to test against.
 
 All files should be of the form:
